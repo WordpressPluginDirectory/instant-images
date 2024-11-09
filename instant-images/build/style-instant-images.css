@@ -485,4 +485,4 @@ button[aria-expanded=true] .instant-images-sidebar-icon svg,button[aria-expanded
 .instant-images-extended-import .import-response--message i{margin-right:3px;color:#65c774}
 .instant-images-extended-import .import-response--message span{color:#434246}
 .instant-images-extended-import .import-response--downloaded{padding:20px 20px 0;font-size:12px}
-.wp-block{padding:0 !important}
+.wp-block.instant-images-block{margin-bottom:0}
